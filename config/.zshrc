@@ -137,6 +137,8 @@ export PATH="/home/dev/.pyenv/bin:$PATH"
 eval "$(pyenv init -)"
 eval "$(pyenv virtualenv-init -)"
 
+eval "$(rbenv init -)"
+
 bindkey -s "^[OM" "^M"
 
 hitokoto
