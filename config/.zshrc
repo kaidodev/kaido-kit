@@ -99,7 +99,31 @@ export EDITOR='nvim'
 # For a full list of active aliases, run `alias`.
 #
 # Example aliases
-alias v="nvim"
+alias dev1="ssh dev@dev1.kaido.team"
+alias dev5="ssh dev@dev5.kaido.team"
+alias dev6="ssh dev@dev6.kaido.team"
+alias dev7="ssh dev@dev7.kaido.team"
+alias max="ssh dev@max.kaido.team"
+alias staging1="ssh dev@staging1.kaido.team"
+alias staging2="ssh dev@staging2.kaido.team"
+alias stag1="ssh dev@stag1.kaido.team"
+alias stag2="ssh dev@staging2.kaido.team"
+alias stag3="ssh dev@stag3.kaido.team"
+alias stag4="ssh dev@stag4.kaido.team"
+alias stag5="ssh dev@stag5.kaido.team"
+alias stag6="ssh dev@stag6.kaido.team"
+alias prod6="ssh dev@prod6.kaido.team"
+alias prod7="ssh dev@prod7.kaido.team"
+# alias prod1="ssh root@prod1.kaido.team"
+alias prod3="ssh dev@prod3.kaido.team"
+alias prod4="ssh dev@prod4.kaido.team"
+alias prod5="ssh dev@prod5.kaido.team"
+alias sin="ssh dev@sin.kaido.team"
+alias zshconfig="nvim ~/.zshrc"
+alias ohmyzsh="nvim ~/.oh-my-zsh"
+alias mcb="mc -b" # disable colors
+alias v=nvim
+
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 #
 #
