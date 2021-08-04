@@ -69,3 +69,8 @@ name = "debug"
     bootstrap_before = 'kaido#before'
     bootstrap_after = 'kaido#after'
 
+
+# add custom_plugins: https://github.com/mhartington/oceanic-next
+[[custom_plugins]]
+  repo = "mhartington/oceanic-next"
+  merged = 0
